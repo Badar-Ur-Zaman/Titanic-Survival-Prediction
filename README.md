@@ -21,7 +21,7 @@ This project predicts the survival of passengers on the Titanic using the Random
 - Seaborn
 
 ## 🗂️ Project Structure
- - code.ipynb # Jupyter notebook with complete code
+ - main.ipynb # Jupyter notebook with complete code
  - requirements.txt # Required packages
  - README.md # Project overview
  - predictions.csv # My submission
